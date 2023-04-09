@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="java_img">java</string>
+    <string name="welcome_to_java_quiz">Welcome to Java Quiz</string>
+    <string name="True">TRUE</string>
+    <string name="False">FALSE</string>
+    <string name="QUESTION">java was introduced in 1970</string>
+</resources>
